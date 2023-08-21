@@ -1,12 +1,12 @@
 {
-  "type": "service_account",
-  "project_id": "webpatriot-ocr",
-  "private_key_id": "37416d334d48041efaa96ae862c1b02d202e3bed",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCFJQE5YdpaLD8k\nC6Iv/HGZ1lo3HSUrxec/26cX6CuG03xKS9O4XjfgiQYxnyPelovNzddRbebIB3LC\npG5w9t83JqKkFtYcvhNdMr+AooZTyWAkvQkOzJy+HQk78oP4lhtCcPQZn6PS1i0a\noBvq1EsxVCuTSGTKx63LadHINEGHY/d7UtIKVVyv36KpafMQzsAYSYIYm1ci8+nd\nYVIjfbSo9axvjfuqUfSkM9pi6uBrHleYkw6s94ilGKZNWiM2ZENYGpizIX6Tt4tv\ngBXjNjTczjH321bMbRK/7nXe/n7aSD8SiQC2WZSEaCG8p5Usrai6+Wj1SyKDVsNa\nM+Somr01AgMBAAECggEABc8xB/tshw2yLZTyXSyjGka/hfMYGZpXdjJTzpe7OnVE\n0YsQcFVwE7R22Dhs3Lvt2qt2Dx//909X4wVAql4jLClb5FP4wKVMe/8IWwj8WnCJ\naOD0obgsyKDEs+BngLOv+cyq4elUwRDGRAijXzInG75j7le0yiI/Q4ZY+GbLSyhx\n2Y25gauJmaJDAm5ZUlo2G9R+aqFve+VPcqpvwZCqkzE3IaeFr/p1qoALDYw9TTzs\nr0lckt743cEZiBOHobY0tynHm7AU1GHm29p7WDZcMZNyyYudZgqNY1oIb84SRtk5\nE4Pti2uRCG4mZZ0jgx1MRyl03xYBF/tq+bF8GKj2SwKBgQC7WTqXtDaahX/+EGgr\nWUoMpODMYRyfP7cr+g56Hn/w6zqbRXd8V3SdZO/8DRloyeMFZ3kEL/INjwaBfmtk\nhNVJ215TXvhRpIOnBDeNmjsTh2xdimceeKnSL35uPZNLvm5ChAIUUtzLHWCBcXx/\n4pww/Tnn0M/5zbWVOoEEL2q10wKBgQC17wNoXL27kexGk/YefpOnw5IMgFC8g2r+\n+cKfzAPLiuYOLUwMU8qd7n5p8W7pmT5fMu7P9lNB/jcXrU9ep7mj6Xch4RpQCCjn\nWcAfHob6fCJeNXbSQOCImLnRe1McG5U8ucSOiLhqU3OzHYG7sh1W7vdpGdau9IVL\n7RNFRFEz1wKBgCfWoY8A01uoZ78u3ffZ1NU7elH7lIqIkfrYAZwWQD6Kxrud2fqm\n3jVZ8W43mt+djpjnl+Q8Dcy0TT3cFBob5P7/lt9Doqo5wYUScH27/jP46CI7/BGO\ntw3q64elsFy68ddTGt4XgLvwU0UzTLYlCfGg519UF+WWyLYi6qxpKNfhAoGBAIKy\n70bFAUTDwvK9Dt2/XwHxfHVgpR+YZYBBGzFDFiLeaQEcR3q/o1qr38LqQByvC2DG\nrUtXEV7iat+mkNNWOQXpDb2YAhgmlIQHNP7mJl/CV8pILFFFbEiVN0CnkQArTJ3w\ncqVW0O0JgJ/XfcDCZ1NxnumxN0o+vZfa+7ISLyfHAoGAL2zX6quK1EtpiVvhoykU\ntqe5KqSs7bQ5vCXQHX8c2/R4PCjwpC2c/SC2HYinB4iBIiiutKIlcY815ejlOZPf\nz3YfkMvtnDVvW1soxM454VVkOm3Z+U6IsaMfvStHeDm/OYBG/IBGnneFZD7RWVCq\numXPOwzeHbf2otsqPrQM+zs=\n-----END PRIVATE KEY-----\n",
-  "client_email": "webpatriot-ocr@webpatriot-ocr.iam.gserviceaccount.com",
-  "client_id": "106334462323673578745",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/webpatriot-ocr%40webpatriot-ocr.iam.gserviceaccount.com"
+  "type": "",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
