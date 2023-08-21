@@ -8,4 +8,6 @@ This PHP code will extract text from the photo
 - composer install
 - Run the URL in your browser: http://localhost/Demo-Projects/Read-Text-from-Image/textDetector/
 
+Need to generate credentials for Read text from images in google cloud. and put in the webpatriot-ocr-37416d334d48.json.
+
 
